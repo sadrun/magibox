@@ -1,0 +1,21 @@
+{
+  "name": "magicbox",
+  "version": "1.0.0",
+  "description": "脚手架示例",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": "https://issues"
+  },
+  "bin": {
+    "magicbox": "./bin/magicbox.js"
+  },
+  "author": "muge",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1"
+  }
+}
